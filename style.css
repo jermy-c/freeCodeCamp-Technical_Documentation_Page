@@ -1,0 +1,15 @@
+#navbar{
+    margin-left: 0;
+    height: 100%;
+    width: 200px;
+    position: fixed;
+}
+
+#main-doc{
+    margin-left: 200px;
+}
+
+.section-header{
+    font-size: 2rem;
+    font-weight: 800;
+}
